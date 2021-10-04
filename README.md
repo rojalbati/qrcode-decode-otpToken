@@ -9,7 +9,7 @@ npm install
 ```
 Run the Test
 ```
-npm run test
+npx cypress run
 ```
 
 ## Dependencies
