@@ -1,6 +1,6 @@
 # QR Code decode and get otpToken
 
-This showcase how we can decode QR Code and get the otpToken
+This repository showcase how we can decode QR Code and get the otpToken
 
 ## Usage
 Download this project and in terminal run the following command to install all the dependencies
