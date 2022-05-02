@@ -1,5 +1,10 @@
 name: QR code decode and get OTP token
-on: [push]
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 3 1-7 * MON'
 jobs:
   cypress-run:
     name: Cypress run
