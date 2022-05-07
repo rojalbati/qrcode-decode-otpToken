@@ -1,5 +1,4 @@
 # QR Code decode and get otpToken
-
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rojalbati_qrcode-decode-otpToken&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=rojalbati_qrcode-decode-otpToken)
 
 This repository showcase how we can decode QR Code and get the otpToken
